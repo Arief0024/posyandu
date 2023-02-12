@@ -1,0 +1,2 @@
+sebelum import database ke dalam xampp ganti nama luar nya menjadi posyandu saja
+lalu silahkan diimport ke database xampp
